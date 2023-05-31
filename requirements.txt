@@ -1,0 +1,8 @@
+### pip install -r requirements.txt ###
+
+### Splunk SDK ###
+splunk-sdk
+
+### Data Science Tools ###
+numpy
+pandas
