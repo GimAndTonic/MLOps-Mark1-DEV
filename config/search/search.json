@@ -1,0 +1,4 @@
+{
+    "SEARCH" : "inputlookup iris-data.csv",
+    "TRANSFORM" : "None"
+}
